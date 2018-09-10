@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="1" name="devonPingProxy">
+    <Basepaths>/devonpingproxy</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1536561608238</CreatedAt>
+    <CreatedBy>s.natarajan@devon.nl</CreatedBy>
+    <Description>devonPingProxy for demo purpose</Description>
+    <DisplayName>devonPingProxy</DisplayName>
+    <LastModifiedAt>1536561757034</LastModifiedAt>
+    <LastModifiedBy>s.natarajan@devon.nl</LastModifiedBy>
+    <ManifestVersion>SHA-512:cee3c7b169ae42eb2923cbad15a5c56edb5e5aec5f7717a6b2001676ad62f88e38720c938cd8551d6fdaf9bb2491dc98f591fdfbd0f2b0ad4fd60767b4d26ea0</ManifestVersion>
+    <Policies>
+        <Policy>Basic-Authentication-1</Policy>
+        <Policy>Basic-Authentication-2</Policy>
+        <Policy>JSON-Threat-Protection-1</Policy>
+        <Policy>XML-Threat-Protection-1</Policy>
+    </Policies>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+</APIProxy>
