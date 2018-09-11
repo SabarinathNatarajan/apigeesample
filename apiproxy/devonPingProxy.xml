@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<APIProxy revision="1" name="devonPingProxy">
+<APIProxy revision="2" name="devonPingProxy">
     <Basepaths>/devonpingproxy</Basepaths>
     <ConfigurationVersion majorVersion="4" minorVersion="0"/>
     <CreatedAt>1536561608238</CreatedAt>
     <CreatedBy>s.natarajan@devon.nl</CreatedBy>
     <Description>devonPingProxy for demo purpose</Description>
     <DisplayName>devonPingProxy</DisplayName>
-    <LastModifiedAt>1536561757034</LastModifiedAt>
+    <LastModifiedAt>1536648860966</LastModifiedAt>
     <LastModifiedBy>s.natarajan@devon.nl</LastModifiedBy>
-    <ManifestVersion>SHA-512:cee3c7b169ae42eb2923cbad15a5c56edb5e5aec5f7717a6b2001676ad62f88e38720c938cd8551d6fdaf9bb2491dc98f591fdfbd0f2b0ad4fd60767b4d26ea0</ManifestVersion>
+    <ManifestVersion>SHA-512:5f6a9bdf066ac8ff8b413449cde2ddd1b27cd59ae1f95cbf17984919add9a43a3feed8c2a78ad2485b655debed23fedf2727d6597b0e1bdbc29abb6bae861992</ManifestVersion>
     <Policies>
         <Policy>Basic-Authentication-1</Policy>
         <Policy>Basic-Authentication-2</Policy>

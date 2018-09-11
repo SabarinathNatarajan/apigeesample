@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Manifest name="manifest">
     <Policies>
-        <VersionInfo resourceName="Basic-Authentication-1" version="SHA-512:f9fef917bbdeaf5bfdb0195fb8cd22cad00b18adcb2e50f1db3cf6dc167480e4559bb43cc731281083f03f62dfd5f7472cc64da918819562b5377bfabc271aeb"/>
-        <VersionInfo resourceName="Basic-Authentication-2" version="SHA-512:c385b3944ff3e216c8c3b48e3e14b6b8d5971b8f6b97e816f81d9ab30a601e440da2bfae470332590e9421ee78add16e71e96f059e9a2cef49fd61244f71acca"/>
-        <VersionInfo resourceName="JSON-Threat-Protection-1" version="SHA-512:22d7bc3c235902cf738a2625e1ffd05e29e39c5c22d3ea3cab660868d2244889ca7ce366755d9bd8cf85e5ef2702635d0759c7a157e5c91f98fea3e43f7d29b7"/>
-        <VersionInfo resourceName="XML-Threat-Protection-1" version="SHA-512:255a5492e429e66320eda98d634adcc4d12917ebde7a8412bb990e2c26a36c99581a936419ab07b4ad29fe8d80f8241c146ecdfddaee4ca8576f9b9e5cdae0ab"/>
+        <VersionInfo resourceName="Basic-Authentication-1" version="SHA-512:90bf3e087df60edf8a11ab689751f27ab9104d07863a7a9e9e57162b812b7dd5fa9b62d97e82e106a953c5b3227678d4a6a68c326f751e295176f0a132ed99f6"/>
+        <VersionInfo resourceName="Basic-Authentication-2" version="SHA-512:65a46210aced48866d6c071a1f4969f1d0ac43abb4686b3cc95ce89a71ccf6ca6d7800f07c0cac79329b4610840fe83150455a35400c0f221ad5eff23cd2a9a2"/>
+        <VersionInfo resourceName="JSON-Threat-Protection-1" version="SHA-512:6175f6c24c532c2ff7e693730201058ca575ef1fce03677c61634196b58270e56f71a3bd0c97454088d3c5b9d84af4e6bc5efbd54ff1843c377f78ea35a25696"/>
+        <VersionInfo resourceName="XML-Threat-Protection-1" version="SHA-512:d534e76a55d22fa1818ffc0e63770e363cf0631a01f586b56f1ba787efec67871741e8bb73b3dc02d6ae05cfc8f8e4fea2e9a5a9f4280f6031ebcd229c0ea3c9"/>
     </Policies>
     <ProxyEndpoints>
-        <VersionInfo resourceName="default" version="SHA-512:9509a26c7776bac9fe569d2527ab87944444699ae495fc6dfc4a5451f106a7f017ad57f6211565e59c50d05dfd3359b299159c5a68f8a312abb19f25c275e5c4"/>
+        <VersionInfo resourceName="default" version="SHA-512:f1c5b704593bb8ecb3bef93d5acdc30451a61b898e4d6871109265fffb0718a99c3daa84f086f84a40182df20ee58e446870df06886101891df3b39043f708d1"/>
     </ProxyEndpoints>
     <Resources/>
     <SharedFlows/>
     <TargetEndpoints>
-        <VersionInfo resourceName="default" version="SHA-512:d41edf69f8b91cb7eb881073e64b237066ac5fae4e344d91b76bb13c249da3b4fbee6ef7414164272c38deed74ef08bbfe5aa1917d9ea317fd9fb8bc00bbb3e4"/>
+        <VersionInfo resourceName="default" version="SHA-512:4cf1b08f6aff537286f1518063a21217a3939f1b55634d6e44b3b4f210b0c597ffd0cf2ad58b031459469d632a19cb6112360df38ba54a4b54a969da4a46bc97"/>
     </TargetEndpoints>
 </Manifest>

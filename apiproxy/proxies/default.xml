@@ -10,12 +10,8 @@
             <Step>
                 <Name>XML-Threat-Protection-1</Name>
             </Step>
-            <Step>
-                <Name>JSON-Threat-Protection-1</Name>
-            </Step>
         </Request>
-        <Response>
-        </Response>
+        <Response/>
     </PreFlow>
     <PostFlow name="PostFlow">
         <Request/>
